@@ -21,6 +21,10 @@
     <setupExperience>all</setupExperience>
     <tabs>standard-home</tabs>
     <tabs>Inventory_Manager</tabs>
+    <tabs>Clothing_Manager</tabs>
+    <tabs>Nutrition_Manager</tabs>
+    <tabs>Experience_Manager</tabs>
+
     <tabs>Item__c</tabs>
     <tabs>Location__c</tabs>
     <tabs>SubType__c</tabs>
